@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Studend,Programmaer,Blogger
+role: Studend,Programmer,Blogger
 
 # Organizations/Affiliations to show in About widget
 organizations:
